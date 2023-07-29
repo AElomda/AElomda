@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aelomda&show_icons=true&locale=en" alt="aelomda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aelomda&" alt="aelomda" /></p>
+## ⚡ GitHub Stats
+
+<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact&count_private=true&show_icons=true&include_all_commits=true" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact" />
