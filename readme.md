@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aelomda&label=Profile%20views&color=0e75b6&style=flat" alt="aelomda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/turbo___2" target="blank"><img src="https://img.shields.io/twitter/follow/turbo___2?logo=twitter&style=for-the-badge" alt="turbo___2" /></a> </p>
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" align="right">
 - 🌱 I’m currently learning **Asp.net**
 
 - 💬 Ask me about **Backend,ASP.NET,SQL Server,C#,LINQ,Entity Framework,MVC,API,SingleIR,Blazor,gRPC**
@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aelomda&show_icons=true&locale=en" alt="aelomda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aelomda&" alt="aelomda" /></p>
-## ⚡ GitHub Stats
-
-<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact&count_private=true&show_icons=true&include_all_commits=true" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed750&PART_1=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&hide_border=true&hide=TeX&layout=compact" />
